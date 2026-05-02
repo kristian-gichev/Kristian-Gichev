@@ -1,11 +1,24 @@
+# Hi there, I'm Kristian Gichev 👋
 
-Hello! My name is Kristian Gichev.
-This is a repository for my personal projects on my way to learning how to code at deeper and deeper levels.
-I recently started working as a programmer too. Here is my work profile if yoou want to check it out - https://github.com/gichev.
+I'm a **Software Engineer** specializing in backend architecture and machine learning, with a strong focus on edge AI and computer vision. I love tackling complex algorithmic problems, optimizing data structures, and building scalable systems from the ground up. 
 
-I really don't know what to put here. I love solving problems and implementing new concepts. I LOVE learning. And talking to/cooperating with other programmers.
-If you think you have a project you might want to colaborate on, or would like to chat about coding(or life, idk ;D) reach out at @kristian_codes (that's Instagram).
-And if you want to connect on LinkedIn - www.linkedin.com/in/kristian-gichev
+Welcome to my personal repository, where I experiment with new concepts and push my technical boundaries. 
+
+### 🚀 What I do
+* **Backend Architecture:** Architecting RESTful microservices and migrating complex data models to graph structures.
+* **Edge ML & Computer Vision:** Building end-to-end pipelines for bare-metal edge deployments (Nvidia Jetson) within constrained networks.
+* **Model Optimization:** Training and converting PyTorch models (YOLO, ResNet, U-Net) into ONNX and TensorRT engines for low-latency inference.
+
+### 🛠️ My Toolbox
+* **Backend & APIs:** Python, FastAPI, Django, SQL, Graph Data Structures
+* **ML & Vision:** PyTorch, OpenCV (CUDA/GPU), TensorRT, ONNX
+* **DevOps & Infrastructure:** Docker, GitLab Actions, Linux (Systemd), Secure Remote Deployments
+
+### Let's connect!
+I absolutely love learning, talking software architecture, and cooperating with other engineers. If you have a project you'd like to collaborate on, or just want to chat about coding (or life!), don't hesitate to reach out.
+
+* 👔 **LinkedIn:** [kristian-gichev](https://www.linkedin.com/in/kristian-gichev)
+* 💼 **Work Profile:** Check out some of my other work at [@gichev](https://github.com/gichev)
+* 📱 **Instagram:** [@kristian_codes](https://instagram.com/kristian_codes)
 
 That's all. Have a nice day! :'O
-
